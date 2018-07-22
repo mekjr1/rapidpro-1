@@ -103,3 +103,12 @@ after_success:
 notifications:
   slack:
     secure: "b2/RUpO6gWEDgOI/sEWsjt2cVnwp3hOWUSMnHpVuY0pZBzzrICZ5MeqEulwCoKy+8ohaCmYUL42RzJwq1v2FITo5YDeiLrqmrkYR0Zieel/Vey+o6sBdR6y2yPvWjBmydHNvfUyMshT5iqEn4bS6bjhm57F0rLJX7mTqp19A+68="
+deploy:
+    provider: gae
+    # Skip cleanup so api_key.py and vendored dependencies are still there
+    skip_cleanup: true
+    keyfile: GOOGLECLOUDKEYFILE
+    project: GOOGLECLOUDPROJECT
+    default: true
+    on:
+        all_branches: true
