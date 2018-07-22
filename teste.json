@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fast-haiku-211019",
+  "private_key_id": "09dd22242dd48212ffd86c764c1addd18a9d211f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDJ/dihQ6dGxOqD\nCsLZz6DiFeX8kehJiQTSlx9h4y8X36zf04XcTQuFl3mAaAL7rFN3ai+OBbCgW8AL\nNUjxx1iNUmXNHSu8z419CgVSDfUvAgVXujwpQUT1eiBj2krhdiNRRaCG6vBfTCwX\ns7N6x+Gp3iDtjmNiVgSeVjbBUURIhtqswAT2J7kIUlfCCukOv9wTPzU2XxNtjUhE\nWNFijxolcYs7xcGbaZvc9bZV+o5d1U8awdvIzF3YV3WTA6jteHdIE0/CD9I3eYuj\nry2J5Gak36cP1NAoZdqcTIhn0hEf/ggYgukOTwFeXrLMgsnDmtHN7Cdekp9O3Gaf\n8a3szZoDAgMBAAECggEASLh5xfFP52Qck+oLZZRhNRQyNUCoctUAJfsfYsQCX+N4\n3ypNjpc0VzfGGAsaS9ZqRFs33LdCtDDkDoT0Cou830Azg2mFphfJNiOl77kztOVS\n3Bch8q5bb880mw5rmAlKxMc++GPb/0sysqPRMZqFrXzZuPzi3fPe/MxIMUgbP8qd\narD6CILe93nGfL3gHxOtdD8I7Q7tNOK0FCdVjzybQ0UJ1xSiacXuaqXiryNotU0R\nZRJWYyHOUQHXlaMLovVhf0Ery8nXA7Vj1iEtUvIeyE2hR68Y3k+Tu7r/n5iTbxSI\nlQjbuqwoaS4sxJ+ib0bA1DO3rSRZLuAOV0R7+b/c5QKBgQDnsfs502ggjzykP72l\n5xDHTabETn/O/rjtjKP/MjCA80dXtjMp331G6NW8T0OY5GvU6aopuE5AIwsHdTfj\nbVUzlO6O+C18WPHFibqeCaPIwhPZSB1ekzT3UvtYpUE2HJZtdYAvdFEK5hnhIxZk\noabWqZogoi3RcgdpTHw15RhRjQKBgQDfLjGCB1ZDoLTPrOUZOGfqbjynWZeqVomQ\n2CSwAVrP0O3vDpu07rEjP7w1GqlPryeIziCXzss7nkMnBEO52Pz0IUOAWz1q80QG\nqf0dw8GWipNo/cA3H8G5TI2ntgVme5W96i0lRWKUR3hXOM6aYqTgyEYoYhxa8q/L\nIAKXjV2NzwKBgQCWojAjOD7KbFWQs6Ao7EEMUn/JwP93JEQ2rOkyUP8X1xLbA6nf\n310jbN0IwL/B9z/j/MaUuS6mpCHXh23+fmaWUo2GhfOMlIcbVp/tf3bsXsFo0mnF\nww78fQbMayQqeguSvoHIWGcYHuFUbetxIWfGyB1cehQvx2LqIr/eikN1QQKBgQDY\nslBtsVQIC/Ujo/s6NrNnQyvvTaVeRfICSmus3VPgbjtoHyX+Urh5wjuq0D1O2oGn\naoTpAWgBdhQ7wP9FZzOMkvOooG6M9rC5S7oxeU3xLpIcoi1NGK+PjI4KJkkuDZcC\nNGsrQiiKUq68+bJY4qi2fJ7qPQDNKdCYiHcb0a3hrwKBgQCdreNUEVV9cJ1cOCoz\nBCh7tEcu1KWjAzSmP659NjXnk6dYcc8JbUDempZZkN82K9UVweI4l5kOSj2PXxQt\nyRW1zSpORN5UL4af4hyEnBXJxziy+xyP11FPQkCHYJOVS9q799l19wO4ZTgcU0C2\nD9wigrcX6hzqHGp9E1a90J0T4A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "rapidpro-ci@fast-haiku-211019.iam.gserviceaccount.com",
+  "client_id": "102153304097046368964",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rapidpro-ci%40fast-haiku-211019.iam.gserviceaccount.com"
+}
