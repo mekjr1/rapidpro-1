@@ -107,7 +107,7 @@ deploy:
     provider: gae
     # Skip cleanup so api_key.py and vendored dependencies are still there
     skip_cleanup: true
-    keyfile: GOOGLECLOUDKEYFILE
+    keyfile: teste.json
     project: GOOGLECLOUDPROJECT
     default: true
     on:
