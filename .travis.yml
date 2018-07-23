@@ -108,7 +108,7 @@ deploy:
     # Skip cleanup so api_key.py and vendored dependencies are still there
     skip_cleanup: true
     keyfile: teste.json
-    project: $GOOGLECLOUDPROJECT
+    project: fast-haiku-211019
     default: true
     on:
         all_branches: true
