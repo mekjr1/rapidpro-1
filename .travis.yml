@@ -107,8 +107,8 @@ deploy:
     provider: gae
     # Skip cleanup so api_key.py and vendored dependencies are still there
     skip_cleanup: true
-    keyfile: teste.json
-    project: fast-haiku-211019
+    keyfile: $GOOGLECLOUDKEYFILE
+    project: $GOOGLECLOUDPROJECT
     default: true
     on:
         all_branches: true
