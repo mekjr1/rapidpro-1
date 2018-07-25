@@ -76,7 +76,3 @@ deploy:
   default: true
   on:
     all_branches: true
-before_install:
-- openssl aes-256-cbc -K "$encrypted_6d229c7bf97b_key" -iv "$encrypted_6d229c7bf97b_iv1"
-  -in google-api-service-key-for-travis.json.enc -out google-api-service-key-for-travis.json
-  -d
