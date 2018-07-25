@@ -5,6 +5,9 @@
 *.pyc
 *~
 
+#keys
+google-api-service-key-for-travis.json
+
 # temba
 dump.rdb
 .coverage
